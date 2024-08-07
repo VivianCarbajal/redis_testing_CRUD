@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0MonrSYH2qaeGfdywo63Q8v5xFjoszh879VR4xnc0bCTjnD0a6FSCILASRP9CnD31wdpmAQCpynfdKP7bQwVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\RedisConnectionTest\\RedisConnectionTest\\RedisConnectionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://desawebservices.sefin.gob.hn:8082/api/v2/\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}
